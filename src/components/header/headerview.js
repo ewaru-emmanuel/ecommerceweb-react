@@ -13,7 +13,7 @@ export default class Header extends Component {
 						<div className='burgerSlice'></div>
 						<div className='burgerSlice'></div>
 					</div>
-					<div id='logo'><Link to='/'>Raihan Store</Link></div>
+					<div id='logo'><Link to='/'>My_E.Store</Link></div>
 				</div>
 				<div id='headerSearchFormContainer'>
 					<SearchForm
